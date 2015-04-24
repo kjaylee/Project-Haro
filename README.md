@@ -1,2 +1,2 @@
 # Project-Haro
-Drone enterprise operating system. 
+Drone enterprise operating service. 
